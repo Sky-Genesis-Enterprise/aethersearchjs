@@ -1,1 +1,1 @@
-# aethersearchjs
+# Aether Search Node.js Framework
